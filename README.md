@@ -1,5 +1,12 @@
 #💫 About Me:
-👋Hello! I'm Mehavarshini, <br>   🤩 Welcome to my Profile<br><br>  I'm pursuing MCA at Gobi Arts & Science College,Gobichettipalayam. With a keen interest in technology and innovation, I'm eager to leverage my skills and knowledge to <br> drive impact in the tech industry.<br>📚 With knowledge in Java, <br> Python, HTML,  I'm confident in my ability to design, develop and deploy high-quality software applications.<br>🤝 As a passionate problem-solver and lifelong learner,I'm dedicated to delivering exceptional results and continuously enhancing my expertise.<br> Let's connect and explore opportunities for growth, collaboration, and innovation!<br> <br>📌 Leetcode <br>https://leetcode.com/u/MehavarshiniThangavel/<br>📌 Hackerrank <br>https://www.hackerrank.com/profile/mehavarshinitha1<br><br>🎯How to Reach Me<br>  ✉ Email:mehavarshinithangavel@gmail.com<br>🖇 LinkedIn:https://www.linkedin.com/in/mehavarshini-thangavel<br><br>         ⚡Thanks for visiting my Profile!! <br>
+👋Hello! I'm Mehavarshini, <br>   🤩 Welcome to my Profile<br><br>  
+I'm pursuing MCA at Gobi Arts & Science College,Gobichettipalayam.
+With a keen interest in technology and innovation, I'm eager to leverage 
+my skills and knowledge to drive impact in the tech industry.<br>
+📚 With knowledge in Java, <br> Python, HTML,  I'm confident in my ability to design, develop and deploy high-quality software applications.<br>
+🤝 As a passionate problem-solver and lifelong learner,I'm dedicated to delivering 
+exceptional results and continuously enhancing my expertise.<br> Let's connect and explore opportunities for growth, collaboration, and innovation!<br> 
+<br>📌 Leetcode <br>https://leetcode.com/u/MehavarshiniThangavel/<br>📌 Hackerrank <br>https://www.hackerrank.com/profile/mehavarshinitha1<br><br>🎯How to Reach Me<br>  ✉ Email:mehavarshinithangavel@gmail.com<br>🖇 LinkedIn:https://www.linkedin.com/in/mehavarshini-thangavel<br><br>         ⚡Thanks for visiting my Profile!! <br>
 
 
 # 💻 Tech Stack:
