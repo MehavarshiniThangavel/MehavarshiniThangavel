@@ -1,6 +1,6 @@
-#💫 About Me:
-👋Hello! I'm Mehavarshini, <br>  
+👋Hello! I'm Mehavarshini,<br> <br>  
     🤩 Welcome to my Profile<br><br>  
+About Me...    
 I'm pursuing MCA at Gobi Arts & Science College,Gobichettipalayam.
 With a keen interest in technology and innovation, I'm eager to leverage 
 my skills and knowledge to drive impact in the tech industry.<br>
